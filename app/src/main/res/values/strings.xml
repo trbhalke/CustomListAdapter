@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Top Grossing Movies</string>
+    <string-array name="movietitle">
+        <item>Alien:Covenant</item>
+        <item>Beauty and Beast</item>
+        <item>Fast and Furious</item>
+        <item>Guardians of galaxy</item>
+        <item>Justice League</item>
+        <item>Kong:Skull Island</item>
+        <item>Logan</item>
+        <item>Spiderman</item>
+        <item>Star wars</item>
+        <item>Thor</item>
+    </string-array>
+    <string-array name="collections">
+        <item>$25M</item>
+        <item>$15M</item>
+        <item>$23M</item>
+        <item>$60M</item>
+        <item>$50M</item>
+        <item>$10M</item>
+        <item>$20M</item>
+        <item>$60M</item>
+        <item>$55M</item>
+        <item>$60M</item>
+    </string-array>
+</resources>
